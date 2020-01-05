@@ -1,0 +1,23 @@
+game:
+- 3 Available Power Ports
+    - 2 pts -> low
+    - 4 pts -> high 
+    - 6 pts -> inner
+
+
+- max 5 power cells
+- generator stops accumating points when it reaches capacity
+
+
+-vision targets
+    - lower rectangle of high goal 
+
+
+
+noteable KoP:
+    cloud computing resources in virtual kit
+
+
+
+- lower facing camera... ball aquisition
+- camera faced turret

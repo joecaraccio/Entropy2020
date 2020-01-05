@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Entropy (in project Entropy)",
+    "file": "/Users/joe/Documents/FRC/Entropy/build/libs/Entropy.jar",
+    "extensions": [
+      "/Users/joe/Documents/FRC/Entropy/build/tmp/expandedArchives/halsim_gui-2020.1.1-osxx86-64.zip_06b9d734e9b218792baeba83f92e8a07/osx/x86-64/shared/libhalsim_gui.dylib"
+    ],
+    "librarydir": "/Users/joe/Documents/FRC/Entropy/build/tmp/jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]
